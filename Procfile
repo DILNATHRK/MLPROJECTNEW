@@ -1,0 +1,1 @@
+web: gunicorn MEDdepartment.wsgi #--log-file -
